@@ -8,8 +8,7 @@ By pressing a button on the controller, the correlated video is being played on 
 Videos are being played in an infinite loop.  
 Only the videos that are being played, are being heard.
 
-![The Video Machine Controller](DSCF4490_small.jpg)
-
+![The Video Machine Controller](the_video_machine/images/DSCF4490_small.jpg)
 
 ### Functionality
 On its first version, The Video Machine controller offers three functions:
