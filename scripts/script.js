@@ -5,7 +5,7 @@ mid-term itp project by Mint Woraya Boonyapanachoti & Dror Ayalon
 
 // serial communication variables
 var serial;
-var portName = '/dev/cu.usbmodemFD121';
+var portName = '/dev/cu.usbmodemFA131';
 
 // video object
 function tv(status, loop, speed, cut, vol) {
